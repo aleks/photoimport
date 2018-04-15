@@ -1,0 +1,7 @@
+name: photoimport
+version: 0.1.0
+
+dependencies:
+  progress_bar.cr:
+    github: tpei/progress_bar.cr
+    branch: master

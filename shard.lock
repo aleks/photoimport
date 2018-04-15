@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  progress_bar.cr:
+    github: tpei/progress_bar.cr
+    commit: 687ff40ecf1ed2424e44ea12988e7b5ae1f3b88c
+
